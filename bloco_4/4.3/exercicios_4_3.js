@@ -8,8 +8,8 @@
 // // console.log(fat);
 
 
-let x = 'amizade';
-let palavra = [];
+// let x = 'amizade';
+// let palavra = [];
 
 
 
