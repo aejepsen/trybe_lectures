@@ -7,7 +7,7 @@
 // // }
 // // console.log(fat);
 
-// ---
+// ------
 // let x = 'amizade';
 // let palavra = [];
 
